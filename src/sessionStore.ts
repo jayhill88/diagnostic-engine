@@ -1,16 +1,23 @@
-import { createClient } from 'ioredis';
+import Redis from 'ioredis';
 import type { DiagnosticSession } from './types';
 
-const redis = createClient({ url: process.env.REDIS_URL });
-redis.on('error', console.error);
-await redis.connect();
+let redisClient: Redis | null = null;
+const REDIS_ENABLED = process.env.REDIS_ENABLED === 'true';
+
+if (REDIS_ENABLED) {
+  redisClient = new Redis();
+  redisClient.on('error', console.error);
+}
 
 export const sessionStore = {
   getSession: async (id: string) => {
-    const data = await redis.get(`session:${id}`);
+    if (!REDIS_ENABLED || !redisClient) return null;
+    const data = await redisClient.get(`session:${id}`);
     return data ? JSON.parse(data) : null;
   },
   saveSession: async (id: string, session: DiagnosticSession) => {
-    await redis.set(`session:${id}`, JSON.stringify(session));
+    if (!REDIS_ENABLED || !redisClient) return;
+    await redisClient.set(`session:${id}`, JSON.stringify(session));
   }
 };
+
