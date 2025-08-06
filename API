@@ -1,0 +1,19 @@
+
+---
+
+## 3. Add your knowledge‑base JSON
+
+Create `knowledge-base/fault_tree_library.json`:
+```json
+{
+  "faultTrees": [
+    {
+      "id": "FT001",
+      "symptom": "slow_actuation",
+      "nodes": [
+        { "id": "FT001-1", "test": "measure_flow_rate", "operator": "<", "threshold": 5, "ifTrue": "FT001-LOW_PUMP", "ifFalse": "FT002" }
+      ]
+    }
+  ],
+  "lessons": []
+}

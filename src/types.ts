@@ -1,0 +1,3 @@
+export interface ChatMessage { role: 'system' | 'user' | 'assistant'; content: string; }
+export interface InteractiveResponsePayload { message: string; quickActions: { id: string; label: string }[]; followUpQuestions: { id: string; question: string }[]; phase: string; confidence: number; }
+export interface DiagnosticSession { phase: string; confidenceLevel: number; conversationHistory: ChatMessage[]; symptomsConfirmed: string[]; testResults: [string, any][]; lastRuleDecision?: { nextStep: string; reason: string }; resolved?: boolean; resolution?: string; }
