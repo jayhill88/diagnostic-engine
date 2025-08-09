@@ -1,0 +1,429 @@
+[
+  {
+    "scenario_id": "SCN-001",
+    "title": "Scenario 1 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 1.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-002",
+    "title": "Scenario 2 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 2.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-003",
+    "title": "Scenario 3 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 3.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-004",
+    "title": "Scenario 4 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 4.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-005",
+    "title": "Scenario 5 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 5.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-006",
+    "title": "Scenario 6 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 6.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-007",
+    "title": "Scenario 7 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 7.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-008",
+    "title": "Scenario 8 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 8.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-009",
+    "title": "Scenario 9 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 9.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-010",
+    "title": "Scenario 10 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 10.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-011",
+    "title": "Scenario 11 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 11.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-012",
+    "title": "Scenario 12 - Placeholder Title",
+    "description": "This is a placeholder description for scenario 12.",
+    "symptoms": [
+      "Symptom A",
+      "Symptom B"
+    ],
+    "questions": [
+      "What is the system pressure?",
+      "Is the valve shifting?"
+    ],
+    "steps": [
+      "Check system pressure at the pump.",
+      "Confirm valve shift via magnetic stick.",
+      "Inspect for contamination or bypass."
+    ],
+    "root_cause": "Root cause diagnosis for scenario {i}",
+    "solution": "Recommended fix or intervention steps.",
+    "failure_mode_tags": [
+      "cavitation",
+      "relief valve misadjusted",
+      "air in fluid",
+      "fluid viscosity too high",
+      "excessive load"
+    ]
+  },
+  {
+    "scenario_id": "SCN-013",
+    "title": "Accumulator Failure",
+    "symptom": "System pressure fluctuates wildly or drops quickly after pump stops.",
+    "probable_causes": [
+      "Bladder or diaphragm ruptured",
+      "Pre-charge lost or incorrect",
+      "Isolation valve closed"
+    ],
+    "clarifying_questions": [
+      "Does the system lose pressure immediately when the pump stops?",
+      "Is the accumulator properly pre-charged to 80-90% of system pressure?",
+      "Has there been any recent maintenance or service on the accumulator?",
+      "Is the accumulator isolation valve open?"
+    ],
+    "diagnostic_steps": [
+      "Check pressure decay with pump off",
+      "Inspect accumulator for visible leaks or damage",
+      "Measure nitrogen pre-charge",
+      "Verify valve position and flow path integrity"
+    ],
+    "high_value_clues": [
+      "Rapid pressure decay",
+      "No pressure buildup during pre-charge check",
+      "System unable to dampen pulsations or maintain pressure when pump is idle"
+    ],
+    "failure_mode_tags": [
+      "accumulator failure",
+      "loss of precharge",
+      "hydraulic pressure instability"
+    ]
+  },
+  {
+    "scenario_id": "SCN-014",
+    "title": "Control Relay Failure",
+    "symptom": "Valve or motor intermittently fails to energize or remains stuck on.",
+    "probable_causes": [
+      "Relay coil failure",
+      "Welded or dirty contacts",
+      "Electrical overload or intermittent control voltage"
+    ],
+    "clarifying_questions": [
+      "Is the relay hot to the touch?",
+      "Does the failure occur consistently or intermittently?",
+      "Has any recent electrical maintenance been performed?",
+      "Is there audible clicking when the relay should activate?"
+    ],
+    "diagnostic_steps": [
+      "Inspect relay for signs of overheating or arcing",
+      "Check control voltage supply and wiring continuity",
+      "Test coil resistance and contact closure",
+      "Substitute known-good relay if possible"
+    ],
+    "high_value_clues": [
+      "Inconsistent voltage at solenoid or contact terminals",
+      "Relay remains engaged even when control signal is off",
+      "No audible engagement under expected operation"
+    ],
+    "failure_mode_tags": [
+      "control relay failure",
+      "electrical fault",
+      "intermittent valve operation"
+    ]
+  },
+  {
+    "scenario_id": "SCN-015",
+    "title": "Relief Valve Failure",
+    "symptom": "System fails to maintain pressure; relief valve not functioning correctly.",
+    "clarifying_questions": [
+      "Has the system pressure dropped below expected operating levels?",
+      "Is there visible leakage at or near the relief valve?",
+      "Has the relief valve been adjusted recently?",
+      "Is the relief valve making noise under pressure?",
+      "Is there pressure at the actuator ports despite no movement?"
+    ],
+    "possible_causes": [
+      "Relief valve spring broken or weakened",
+      "Debris lodged in relief valve seat",
+      "Relief valve stuck open",
+      "Incorrect valve adjustment",
+      "Cracked valve housing causing internal leakage"
+    ],
+    "diagnostic_steps": [
+      "Verify system pressure under normal operation conditions",
+      "Inspect relief valve for external leakage",
+      "Isolate and remove relief valve for bench test",
+      "Check spring tension and seating surface",
+      "Replace or rebuild relief valve if faulty"
+    ],
+    "recommended_actions": [
+      "Clean and inspect relief valve assembly",
+      "Replace relief valve if internal damage is found",
+      "Adjust relief pressure to match system specifications",
+      "Install pressure gauge to monitor relief valve performance"
+    ],
+    "failure_mode_tags": [
+      "relief valve stuck open",
+      "valve misadjustment",
+      "internal leakage",
+      "spring failure",
+      "seat contamination"
+    ]
+  }
+]

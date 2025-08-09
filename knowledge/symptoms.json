@@ -1,0 +1,7 @@
+[
+  { "id": "slow_cylinder", "aliases": ["slow cylinder", "slow under load", "sluggish"] },
+  { "id": "running_hot", "aliases": ["hot oil", "running hot", "overheating"] },
+  { "id": "pressure_low", "aliases": ["low pressure", "weak pressure"] },
+  { "id": "noisy", "aliases": ["noise", "vibration", "cavitation noise"] }
+]
+

@@ -1,0 +1,8 @@
+[
+  { "id": "relief_misadjusted", "component": "valve", "prior": 0.20 },
+  { "id": "fluid_viscosity_high", "component": "fluid", "prior": 0.15 },
+  { "id": "air_in_fluid", "component": "fluid", "prior": 0.20 },
+  { "id": "pump_wear", "component": "pump", "prior": 0.20 },
+  { "id": "load_excessive", "component": "mechanical", "prior": 0.25 }
+]
+

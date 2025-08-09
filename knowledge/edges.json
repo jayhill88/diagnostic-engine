@@ -1,0 +1,26 @@
+{
+  "symptom_to_cause": [
+    { "symptom": "slow_cylinder", "cause": "relief_misadjusted", "weight": 0.7 },
+    { "symptom": "slow_cylinder", "cause": "pump_wear", "weight": 0.6 },
+    { "symptom": "slow_cylinder", "cause": "load_excessive", "weight": 0.6 },
+    { "symptom": "running_hot", "cause": "fluid_viscosity_high", "weight": 0.7 },
+    { "symptom": "running_hot", "cause": "relief_misadjusted", "weight": 0.4 },
+    { "symptom": "noisy", "cause": "air_in_fluid", "weight": 0.7 },
+    { "symptom": "pressure_low", "cause": "pump_wear", "weight": 0.7 }
+  ],
+  "cause_to_test": [
+    { "cause": "relief_misadjusted", "test": "measure_system_pressure", "discriminative": 0.9 },
+    { "cause": "fluid_viscosity_high", "test": "check_tank_temp", "discriminative": 0.7 },
+    { "cause": "air_in_fluid", "test": "listen_for_cavitation", "discriminative": 0.8 },
+    { "cause": "pump_wear", "test": "measure_system_pressure", "discriminative": 0.7 },
+    { "cause": "load_excessive", "test": "measure_system_pressure", "discriminative": 0.6 }
+  ],
+  "cause_to_fix": [
+    { "cause": "relief_misadjusted", "fix": "Adjust relief valve to spec and lock nut." },
+    { "cause": "fluid_viscosity_high", "fix": "Replace with correct-grade fluid; verify ambient/operating temps." },
+    { "cause": "air_in_fluid", "fix": "Check suction leaks; bleed system; replace filters/seals." },
+    { "cause": "pump_wear", "fix": "Bench test pump; overhaul/replace if flow/pressure below spec." },
+    { "cause": "load_excessive", "fix": "Reduce load or increase actuator sizing; inspect mechanical binding." }
+  ]
+}
+

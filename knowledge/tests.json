@@ -1,0 +1,20 @@
+[
+  {
+    "id": "measure_system_pressure",
+    "question": "What is system pressure at full extension under load?",
+    "expected": { "units": "psi", "normal_min": 2200, "normal_max": 3000 },
+    "safety": "Use rated gauge on the test port; keep clear of moving parts."
+  },
+  {
+    "id": "check_tank_temp",
+    "question": "What is the reservoir temperature after 10 minutes of operation?",
+    "expected": { "units": "°C", "normal_max": 60 },
+    "safety": "Beware hot surfaces."
+  },
+  {
+    "id": "listen_for_cavitation",
+    "question": "Do you hear whining/rumbling near the pump inlet?",
+    "expected": { "type": "boolean" }
+  }
+]
+
